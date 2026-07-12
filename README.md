@@ -27,11 +27,16 @@ The application generates personalized career recommendations, skill gap analysi
 
 ```
 Career-Compass-AI/
-|
+│
 ├── app.py
 ├── requirements.txt
 ├── README.md
-└── screenshots/
+├── screenshots/
+│   ├── home.png
+│   ├── dashboard.png
+│   ├── skill_gap.png
+│   └── roadmap.png
+└── .gitignore
 ```
 
 #Installation
