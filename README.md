@@ -23,7 +23,8 @@ The application generates personalized career recommendations, skill gap analysi
 - IBM watsonx.ai (Architecture Ready)
 - IBM Granite
 
-#Project Structure
+## Project Structure
+
 Career-Compass-AI
 │
 ├── app.py
@@ -40,7 +41,31 @@ pip install -r requirements.txt
 
 streamlit run app.py
 
-#Future Scope
+## 📸 Project Screenshots
+
+### 🏠 Home Page
+
+![Home Page](screenshots/home.png)
+
+---
+
+### 🤖 AI Career Recommendation Dashboard
+
+![Career Recommendation](screenshots/dashboard.png)
+
+---
+
+### 📊 Skill Gap Analysis
+
+![Skill Gap Analysis](screenshots/skill_gap.png)
+
+---
+
+### 📅 30-Day Learning Roadmap
+
+![30-Day Learning Roadmap](screenshots/roadmap.png)
+
+## Future Scope
 Resume Analysis
 
 LinkedIn Integration
@@ -52,5 +77,5 @@ Job Recommendation
 Resume Score
 
 
-#Author
+## Author
 Harsh Goyal
