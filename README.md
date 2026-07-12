@@ -26,10 +26,14 @@ The application generates personalized career recommendations, skill gap analysi
 ## Project Structure
 
 Career-Compass-AI
+|
 │
 ├── app.py
+|
 ├── requirements.txt
+|
 ├── README.md
+|
 ├── screenshots
 
 #Installation
